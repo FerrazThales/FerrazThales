@@ -13,7 +13,7 @@ My credentials include a Bachelor's in Industrial Engineering from the Catholic 
 ## Projetos:
 Veja meus tutoriais publicados:
 
-* **Como será a segurança pública no futuro:** https://bit.ly/3yyl7i5
+* **Detector de Objetos usando Yolo:** https://bit.ly/3yyl7i5
 
 
 ---
