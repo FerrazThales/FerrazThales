@@ -1,4 +1,7 @@
 # Thales Ferraz
+<center><img alt="Colaboratory logo" width="32%" src="https://github.com/FerrazThales/FerrazThales/blob/main/logo_gif.gif?raw=true"></center>
+
+
 <sub>*Logistics Outbound assistent* at Renault</sub>
 
 My credentials include a Bachelor's in Industrial Engineering from the Catholic Pontifical University of Paraná (PUCPR).
