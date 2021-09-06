@@ -9,7 +9,7 @@ My credentials include a Bachelor's in Industrial Engineering from the Catholic 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
-* [Medium](https://thalesferraz.medium.com/) (PT-BR)
+* [Medium](https://thalesferraz.medium.com/)
 
 
 ## Projetos:
