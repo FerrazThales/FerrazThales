@@ -5,7 +5,7 @@
 
 My credentials include a Bachelor's in Industrial Engineering from the Catholic Pontifical University of Paraná (PUCPR).
 
-**Background in:** Python, Machine Learning, Industrial Engineering and Supply Chain.
+**Background in:** Python, Data Science, Machine Learning, Industrial Engineering and Supply Chain.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
