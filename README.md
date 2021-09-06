@@ -15,9 +15,9 @@ My credentials include a Bachelor's in Industrial Engineering from the Catholic 
 ## Projetos:
 Veja meus tutoriais publicados:
 
-* **Detector de Objetos usando Yolo:** https://bit.ly/3yyl7i5
 * **Análise dos Dados do Airbnb de Paris:** https://bit.ly/3jOf8AS
 * **Análise dos Dados da COVID-19:** 
+* **Detector de Objetos usando Yolo:** https://bit.ly/3yyl7i5
 
 ---
 
