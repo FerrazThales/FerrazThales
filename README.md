@@ -1,8 +1,10 @@
 # Thales Ferraz
 <p align="center"><img alt="Colaboratory logo" width="32%" src="https://github.com/FerrazThales/FerrazThales/blob/main/logo_gif.gif?raw=true"></p>
 
-Olá,
-Sou um estudante de Engenharia de Produção (PUCPR) fascinado em tecnologia.
+<p> Olá,</p>
+Sou um estudante de Engenharia de Produção (PUCPR) fascinado em tecnologia que revolucionam negócios. Este repositório contém a maioria dos meus projetos. Em grande parte do tempo eu utilizo a linguagem <strong>python</strong>, embora tenha conhecimentos de <i>HTML, CSS, Octave e C++</i>.
+
+<p></p>
 
 **Background in:** Python, Data Science, Machine Learning, Industrial Engineering and Supply Chain.
 
