@@ -5,7 +5,7 @@
 
 <p>Sou um estudante de Engenharia de Produção (PUCPR) fascinado em tecnologias que revolucionam negócios. Este repositório contém a maioria dos meus projetos. Em grande parte do tempo eu utilizo a linguagem <strong>python</strong>, embora tenha conhecimentos de <i>HTML, CSS, Octave e C++</i>.</p>
 
-<p>Atualmente, tenho focado meus estudos em inteligência artificial com enfoque em séries temporais e visão computacional</p>
+<p>Atualmente, tenho focado meus estudos em inteligência artificial com grande interesse nas áreas de séries temporais e visão computacional</p>
 
 
 
