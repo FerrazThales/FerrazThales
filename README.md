@@ -14,7 +14,7 @@
 
 **Background in:** Python, Data Science, Machine Learning, Industrial Engineering and Supply Chain.
 
-**Links:**
+**Me acompanhe em outras redes:**
 * [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
 * [Medium](https://thalesferraz.medium.com/)
 
