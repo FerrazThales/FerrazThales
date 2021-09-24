@@ -22,8 +22,9 @@
 ## Projetos:
 Veja meus tutoriais publicados:
 
-* **Análise dos Dados do Airbnb de Paris:** https://bit.ly/3jOf8AS
 * **Análise dos Dados da COVID-19:** https://bit.ly/3ncbWkr
+* **Análise dos Dados do Airbnb de Paris:** https://bit.ly/3jOf8AS
+* **Detecção de Fraudes em cartões de crédito:** https://bit.ly/3i7WItA
 * **Detector de Objetos usando Yolo:** https://bit.ly/3yyl7i5
 
 ---
