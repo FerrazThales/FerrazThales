@@ -23,6 +23,7 @@
 Veja meus tutoriais publicados:
 
 * **Análise dos Dados da COVID-19:** https://bit.ly/3ncbWkr
+* **Utilizando a Inteligência Artificial para calcular o valor do seguro de vida:** https://bit.ly/3bIGRhm
 * **Churn Prediction — Como saber quais clientes vão deixar sua empresa.** https://bit.ly/3lSuJA6
 * **Análise dos Dados do Airbnb de Paris:** https://bit.ly/3jOf8AS
 * **Detecção de Fraudes em cartões de crédito:** https://bit.ly/3i7WItA
