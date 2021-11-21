@@ -21,7 +21,7 @@
 ## Projetos:
 Veja meus tutoriais publicados:
 
-* **Saúde dos Fetos e a I.A — Uma questão de política pública:** https://github.com/FerrazThales/Fetal_Health_Classification
+* **Saúde dos Fetos e a I.A — Uma questão de política pública:** https://bit.ly/30N73FL
 * **Análise dos Dados da COVID-19:** https://bit.ly/3ncbWkr
 * **Utilizando a Inteligência Artificial para calcular o valor do seguro de vida:** https://bit.ly/3bIGRhm
 * **Churn Prediction — Como saber quais clientes vão deixar sua empresa.** https://bit.ly/3lSuJA6
