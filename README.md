@@ -21,7 +21,7 @@
 ## Projetos:
 Veja meus tutoriais publicados:
 
-* **Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet** https://bit.ly/3GAa37E
+* **Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet** https://bit.ly/3GGIucZ
 * **Saúde dos Fetos e a I.A — Uma questão de política pública** https://bit.ly/30N73FL
 * **Análise dos Dados da COVID-19** https://bit.ly/3ncbWkr
 * **Utilizando a Inteligência Artificial para calcular o valor do seguro de vida** https://bit.ly/3bIGRhm
