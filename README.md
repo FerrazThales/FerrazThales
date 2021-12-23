@@ -21,6 +21,7 @@
 ## Projetos:
 Veja meus tutoriais publicados:
 
+* **Detectando imagens de gatos com Deep Learning** https://bit.ly/3pmrh2v
 * **Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet** https://bit.ly/3GGIucZ
 * **Saúde dos Fetos e a I.A — Uma questão de política pública** https://bit.ly/30N73FL
 * **Análise dos Dados da COVID-19** https://bit.ly/3ncbWkr
