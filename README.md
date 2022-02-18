@@ -1,15 +1,17 @@
 # Thales Ferraz
 <p align="center"><img alt="Colaboratory logo" width="32%" src="https://github.com/FerrazThales/FerrazThales/blob/main/logo_gif.gif?raw=true"></p>
+<p>
+“𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗱𝗮𝘁𝗮, 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗷𝘂𝘀𝘁 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗿𝘀𝗼𝗻 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗼𝗽𝗶𝗻𝗶𝗼𝗻.” 𝑊. 𝐸𝑑𝑤𝑎𝑟𝑑𝑠 𝐷𝑒𝑚𝑖𝑛𝑔.
+</p>
+<p>
+Profissional com perfil analítico e criativo que busca a solução de problemas através da exploração de dados ou modelagem matemática. Possuo fortes habilidades em programação, principalmente em Python, e em algoritmos de inteligência artificial. Além disso, domino Excel (VBA e Power Query) e ferramentas de visualização de dados, como o Power B.I e o Spotfire.
+</p>
+<p>
+Utilizo minha criatividade e objetividade para comunicar ideias em apresentações através de técnicas de Storytelling. 
+</p>
+Possuo experiência no ramo industrial em multinacional, principalmente em áreas voltadas a Supply Chain.
 
-<p> Olá,</p>
-
-<p>Sou um estudante de Engenharia de Produção (PUCPR) fascinado em tecnologias que revolucionam negócios. Este repositório contém a maioria dos meus projetos. Em grande parte do tempo eu utilizo a linguagem <strong>python</strong>, embora tenha conhecimentos de <i>HTML, CSS, Octave e C++</i>.</p>
-
-<p>Atualmente, tenho focado meus estudos em inteligência artificial com grande interesse nas áreas de séries temporais e visão computacional.</p>
-
-
-</font>
-<p></p>
+<p>
 
 **Background in:** Python, Data Science, Machine Learning and Industrial Engineering.
 
