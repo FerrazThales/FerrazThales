@@ -23,6 +23,7 @@ Possuo experiência no ramo industrial em multinacional, principalmente em área
 ## Projetos:
 Veja meus tutoriais publicados:
 
+* **Programação Linear em Python (Pyomo)** https://bit.ly/3CM2IB3
 * **Default Prediction: Prevendo a inadimplência em instituições financeiras** https://bit.ly/3pY8hIa
 * **Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet** https://bit.ly/3GGIucZ
 * **Saúde dos Fetos e a I.A — Uma questão de política pública** https://bit.ly/30N73FL
