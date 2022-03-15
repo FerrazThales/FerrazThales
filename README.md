@@ -23,16 +23,22 @@ Possuo experiência no ramo industrial em multinacional, principalmente em área
 ## Projetos:
 Veja meus tutoriais publicados:
 
-* **Programação Linear em Python (Pyomo)** https://bit.ly/3CM2IB3
-* **Default Prediction: Prevendo a inadimplência em instituições financeiras** https://bit.ly/3pY8hIa
-* **Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet** https://bit.ly/3GGIucZ
-* **Saúde dos Fetos e a I.A — Uma questão de política pública** https://bit.ly/30N73FL
-* **Análise dos Dados da COVID-19** https://bit.ly/3ncbWkr
-* **Utilizando a Inteligência Artificial para calcular o valor do seguro de vida** https://bit.ly/3bIGRhm
-* **Churn Prediction — Como saber quais clientes vão deixar sua empresa** https://bit.ly/3lSuJA6
-* **Análise dos Dados do Airbnb de Paris** https://bit.ly/3jOf8AS
-* **Detecção de Fraudes em cartões de crédito** https://bit.ly/3i7WItA
-* **Detector de Objetos usando Yolo** https://bit.ly/3yyl7i5
+* **Otimização**:
+  * Programação Linear em Python (Pyomo) https://bit.ly/3CM2IB3
+* **Regressão**:
+  * Default Prediction: Prevendo a inadimplência em instituições financeiras https://bit.ly/3pY8hIa
+  * Utilizando a Inteligência Artificial para calcular o valor do seguro de vida https://bit.ly/3bIGRhm
+* **Time Series**:
+  * Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet https://bit.ly/3GGIucZ
+* **Classificação**:
+  * Saúde dos Fetos e a I.A — Uma questão de política pública https://bit.ly/30N73FL
+  * Detecção de Fraudes em cartões de crédito https://bit.ly/3i7WItA
+  * Churn Prediction — Como saber quais clientes vão deixar sua empresa https://bit.ly/3lSuJA6
+* **Análise de Dados**:
+  * Análise dos Dados da COVID-19 https://bit.ly/3ncbWkr
+  * Análise dos Dados do Airbnb de Paris https://bit.ly/3jOf8AS
+* **Visão Computacional**:
+  * Detector de Objetos usando Yolo https://bit.ly/3yyl7i5
 
 ---
 
