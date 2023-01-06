@@ -23,7 +23,7 @@ Possuo experiência no ramo industrial em multinacional, principalmente em área
 ## Projetos:
 Veja meus tutoriais publicados:
 * **Estatística**:
-  * Análise Estatística dos Sintomas de Depressão https://bit.ly/3CM2IB3
+  * Análise Estatística dos Sintomas de Depressão http://bit.ly/3GNqbWw
 * **Otimização**:
   * Programação Linear em Python (Pyomo) https://bit.ly/3CM2IB3
 * **Regressão**:
