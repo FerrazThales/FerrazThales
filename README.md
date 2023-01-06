@@ -4,16 +4,19 @@
 “𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗱𝗮𝘁𝗮, 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗷𝘂𝘀𝘁 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗿𝘀𝗼𝗻 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗼𝗽𝗶𝗻𝗶𝗼𝗻.” 𝑊. 𝐸𝑑𝑤𝑎𝑟𝑑𝑠 𝐷𝑒𝑚𝑖𝑛𝑔.
 </p>
 <p>
-Profissional com perfil analítico e criativo que busca a solução de problemas através da exploração de dados ou modelagem matemática. Possuo fortes habilidades em programação, principalmente em Python, e em algoritmos de inteligência artificial. Além disso, domino Excel (VBA e Power Query) e ferramentas de visualização de dados, como o Power B.I e o Spotfire.
+Sou um profissional com perfil analítico e criativo que busca a resolução de problemas através da exploração de dados ou modelagem matemática. Possuo fortes habilidades em programação, principalmente em Python, e em algoritmos de inteligência artificial. Além disso, sou especialista em Excel e ferramentas de visualização de dados, como o Power BI. 
 </p>
-<p>
-Utilizo minha criatividade e objetividade para comunicar ideias em apresentações através de técnicas de Storytelling. 
 </p>
-Possuo experiência no ramo industrial em multinacional, principalmente em áreas voltadas a Supply Chain.
+Além deste lado TI, também tenho conhecimentos de Figma. E uso os princípios do design para realizar uma comunicação mais assertiva e visual, transmitindo rapidamente ideias e estratégias para a tomada de ação. 
+</p>
+</p>
+Meu grande propósito é ajudar as empresas a resolverem seus problemas complexos utilizando uma abordagem data-driven.
+</p>
+
 
 <p>
 
-**Background in:** Python, Data Science, Machine Learning and Industrial Engineering.
+**Background in:** Python, Data Science, Machine Learning, Statistics and Industrial Engineering.
 
 **Me acompanhe em outras redes:**
 * [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
