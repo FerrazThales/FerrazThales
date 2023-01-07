@@ -26,7 +26,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 ## Projetos:
 Veja meus tutoriais publicados:
 * **Estatística**:
-  * Análise Estatística dos Sintomas de Depressão http://bit.ly/3GNqbWw
+  * Análise dos Sintomas de Depressão nos Estados Unidos http://bit.ly/3Qn7V9k
 * **Otimização**:
   * Programação Linear em Python (Pyomo) https://bit.ly/3CM2IB3
 * **Regressão**:
