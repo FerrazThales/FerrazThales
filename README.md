@@ -57,6 +57,3 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 ## Lives
  
 [Árvores de Decisão aplicadas a Machine Learning](https://www.youtube.com/watch?v=F8hfuunTJyU)
- 
----
-
