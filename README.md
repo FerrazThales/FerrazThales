@@ -15,14 +15,19 @@ Além deste lado TI, também tenho conhecimentos de Figma. E uso os princípios 
 </p>
 Meu grande propósito é ajudar as empresas a resolverem seus problemas complexos utilizando uma abordagem data-driven.
 </p>
-
-
 <p>
 
-**Background in:** Python, Data Science, Machine Learning, Statistics and Industrial Engineering.
+## Tecnologias
+<div style ="display: inline_block">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</div>
 
 ## Projetos:
-Veja meus tutoriais publicados:
 * **Estatística**:
   * Análise dos Sintomas de Depressão nos Estados Unidos http://bit.ly/3Qn7V9k
 * **Otimização**:
