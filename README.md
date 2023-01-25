@@ -55,7 +55,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
   * Detector de Objetos usando Yolo https://bit.ly/3yyl7i5
 
 ## Lives
-xx
  
+[Árvores de Decisão aplicadas a Machine Learning](https://www.youtube.com/watch?v=F8hfuunTJyU)
 ---
 
