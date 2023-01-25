@@ -36,9 +36,9 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 ## Projetos
  
 * **Estatística**:
-  * Análise dos Sintomas de Depressão nos Estados Unidos http://bit.ly/3Qn7V9k
+  * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
 * **Otimização**:
-  * Programação Linear em Python (Pyomo) https://bit.ly/3CM2IB3
+  * [Programação Linear em Python (Pyomo)](https://bit.ly/3CM2IB3)
 * **Regressão**:
   * Default Prediction: Prevendo a inadimplência em instituições financeiras https://bit.ly/3pY8hIa
   * Utilizando a Inteligência Artificial para calcular o valor do seguro de vida https://bit.ly/3bIGRhm
@@ -47,12 +47,12 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 * **Classificação**:
   * Saúde dos Fetos e a I.A — Uma questão de política pública https://bit.ly/30N73FL
   * Detecção de Fraudes em cartões de crédito https://bit.ly/3i7WItA
-  * Churn Prediction — Como saber quais clientes vão deixar sua empresa https://bit.ly/3lSuJA6
+  * [Churn Prediction — Como saber quais clientes vão deixar sua empresa](https://bit.ly/3lSuJA6)
 * **Análise de Dados**:
-  * Análise dos Dados da COVID-19 https://bit.ly/3ncbWkr
-  * Análise dos Dados do Airbnb de Paris https://bit.ly/3jOf8AS
+  * [Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)
+  * [Análise dos Dados do Airbnb de Paris](https://bit.ly/3jOf8AS)
 * **Visão Computacional**:
-  * Detector de Objetos usando Yolo https://bit.ly/3yyl7i5
+  * [Detector de Objetos usando Yolo](https://bit.ly/3yyl7i5)
 
 ## Lives
  
