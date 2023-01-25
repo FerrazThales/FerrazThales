@@ -29,6 +29,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 <p>
 
 ## Projetos
+ 
 * **Estatística**:
   * Análise dos Sintomas de Depressão nos Estados Unidos http://bit.ly/3Qn7V9k
 * **Otimização**:
