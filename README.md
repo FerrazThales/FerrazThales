@@ -2,19 +2,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesdefreitasferraz/)
 
 <p align="center"><img alt="Colaboratory logo" width="32%" src="https://github.com/FerrazThales/FerrazThales/blob/main/logo_gif.gif?raw=true"></p>
-<p>
-“𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗱𝗮𝘁𝗮, 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗷𝘂𝘀𝘁 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗿𝘀𝗼𝗻 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗼𝗽𝗶𝗻𝗶𝗼𝗻.” 𝑊. 𝐸𝑑𝑤𝑎𝑟𝑑𝑠 𝐷𝑒𝑚𝑖𝑛𝑔.
-</p>
-<p>
-Sou um profissional com perfil analítico e criativo que busca a resolução de problemas através da exploração de dados ou modelagem matemática. Possuo fortes habilidades em programação, principalmente em Python, e em algoritmos de inteligência artificial. Além disso, sou especialista em Excel e ferramentas de visualização de dados, como o Power BI. 
-</p>
-</p>
-Além deste lado TI, também tenho conhecimentos de Figma. E uso os princípios do design para realizar uma comunicação mais assertiva e visual, transmitindo rapidamente ideias e estratégias para a tomada de ação. 
-</p>
-</p>
-Meu grande propósito é ajudar as empresas a resolverem seus problemas complexos utilizando uma abordagem data-driven.
-</p>
-<p>
 
 ## Tecnologias
 <div style ="display: inline_block">
@@ -25,6 +12,21 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </div>
+
+## Sobre mim
+
+“𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗱𝗮𝘁𝗮, 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗷𝘂𝘀𝘁 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗿𝘀𝗼𝗻 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗼𝗽𝗶𝗻𝗶𝗼𝗻.” 𝑊. 𝐸𝑑𝑤𝑎𝑟𝑑𝑠 𝐷𝑒𝑚𝑖𝑛𝑔.
+
+<p>
+Sou um profissional com perfil analítico e criativo que busca a resolução de problemas através da exploração de dados ou modelagem matemática. Possuo fortes habilidades em programação, principalmente em Python, e em algoritmos de inteligência artificial. Além disso, sou especialista em Excel e ferramentas de visualização de dados, como o Power BI. 
+</p>
+</p>
+Além deste lado TI, também tenho conhecimentos de Figma. E uso os princípios do design para realizar uma comunicação mais assertiva e visual, transmitindo rapidamente ideias e estratégias para a tomada de ação. 
+</p>
+</p>
+Meu grande propósito é ajudar as empresas a resolverem seus problemas complexos utilizando uma abordagem data-driven.
+</p>
+<p>
 
 ## Projetos
 * **Estatística**:
