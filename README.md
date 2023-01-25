@@ -29,7 +29,7 @@ Sou um profissional com perfil analítico e criativo que busca a resolução de 
 Além deste lado TI, também tenho conhecimentos de Figma. E uso os princípios do design para realizar uma comunicação mais assertiva e visual, transmitindo rapidamente ideias e estratégias para a tomada de ação. 
 </p>
 </p>
-Meu grande propósito é ajudar as empresas a resolverem seus problemas complexos utilizando uma abordagem data-driven.
+Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizando uma abordagem data-driven.
 </p>
 <p>
 
