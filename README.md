@@ -54,5 +54,8 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 * **Visão Computacional**:
   * Detector de Objetos usando Yolo https://bit.ly/3yyl7i5
 
+## Lives
+xx
+ 
 ---
 
