@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalesdefreitasferraz/)
 
 <p align="center"><img alt="Colaboratory logo" width="32%" src="https://github.com/FerrazThales/FerrazThales/blob/main/logo_gif.gif?raw=true"></p>
-
 <p>
 “𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗱𝗮𝘁𝗮, 𝘆𝗼𝘂 𝗮𝗿𝗲 𝗷𝘂𝘀𝘁 𝗮𝗻𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗿𝘀𝗼𝗻 𝘄𝗶𝘁𝗵 𝗮𝗻 𝗼𝗽𝗶𝗻𝗶𝗼𝗻.” 𝑊. 𝐸𝑑𝑤𝑎𝑟𝑑𝑠 𝐷𝑒𝑚𝑖𝑛𝑔.
 </p>
