@@ -26,7 +26,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </div>
 
-## Projetos:
+## Projetos
 * **Estatística**:
   * Análise dos Sintomas de Depressão nos Estados Unidos http://bit.ly/3Qn7V9k
 * **Otimização**:
