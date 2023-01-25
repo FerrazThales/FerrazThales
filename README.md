@@ -22,11 +22,6 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 
 **Background in:** Python, Data Science, Machine Learning, Statistics and Industrial Engineering.
 
-**Me acompanhe em outras redes:**
-* [LinkedIn](https://www.linkedin.com/in/thalesdefreitasferraz/)
-* [Medium](https://thalesferraz.medium.com/)
-
-
 ## Projetos:
 Veja meus tutoriais publicados:
 * **Estatística**:
