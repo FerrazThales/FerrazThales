@@ -33,7 +33,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 </p>
 <p>
 
-## Projetos
+## Alguns dos meus Projetos
  
 * **Estatística**:
   * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
@@ -54,6 +54,6 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 * **Visão Computacional**:
   * [Detector de Objetos usando Yolo](https://bit.ly/3yyl7i5)
 
-## Lives
+## Lives que participei
  
 [Árvores de Decisão aplicadas a Machine Learning](https://www.youtube.com/watch?v=F8hfuunTJyU)
