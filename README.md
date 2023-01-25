@@ -40,13 +40,13 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas complexo
 * **Otimização**:
   * [Programação Linear em Python (Pyomo)](https://bit.ly/3CM2IB3)
 * **Regressão**:
-  * Default Prediction: Prevendo a inadimplência em instituições financeiras https://bit.ly/3pY8hIa
-  * Utilizando a Inteligência Artificial para calcular o valor do seguro de vida https://bit.ly/3bIGRhm
+  * [Default Prediction: Prevendo a inadimplência em instituições financeiras](https://bit.ly/3pY8hIa)
+  * [Utilizando a Inteligência Artificial para calcular o valor do seguro de vida](https://bit.ly/3bIGRhm)
 * **Time Series**:
-  * Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet https://bit.ly/3GGIucZ
+  * [Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet](https://bit.ly/3GGIucZ)
 * **Classificação**:
-  * Saúde dos Fetos e a I.A — Uma questão de política pública https://bit.ly/30N73FL
-  * Detecção de Fraudes em cartões de crédito https://bit.ly/3i7WItA
+  * [Saúde dos Fetos e a I.A — Uma questão de política pública](https://bit.ly/30N73FL)
+  * [Detecção de Fraudes em cartões de crédito](https://bit.ly/3i7WItA)
   * [Churn Prediction — Como saber quais clientes vão deixar sua empresa](https://bit.ly/3lSuJA6)
 * **Análise de Dados**:
   * [Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)
