@@ -32,7 +32,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
 </p>
 <p>
 
-## Alguns dos meus Projetos
+## Veja alguns projetos Desenvolvidos por mim
 * **Análise de Dados**:
   * [Análise dos Projetos de Lei da Cidade de Indaial](https://github.com/FerrazThales/Observatorio_Social_Indaial)
   * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
