@@ -33,8 +33,8 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
 <p>
 
 ## Alguns dos meus Projetos
-
 * **Análise de Dados**:
+  * [Análise dos Projetos de Lei da Cidade de Indaial](https://github.com/FerrazThales/Observatorio_Social_Indaial)
   * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
   * [Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)
   * [Análise dos Dados do Airbnb de Paris](https://bit.ly/3jOf8AS)
@@ -43,7 +43,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
 * **Regressão**:
   * [Default Prediction: Prevendo a inadimplência em instituições financeiras](https://bit.ly/3pY8hIa)
   * [Utilizando a Inteligência Artificial para calcular o valor do seguro de vida](https://bit.ly/3bIGRhm)
-* **Time Series**:
+* **Séries Temporais**:
   * [Previsão de Demanda — Séries Temporais utilizando ARIMA e Prophet](https://bit.ly/3GGIucZ)
 * **Classificação**:
   * [Saúde dos Fetos e a I.A — Uma questão de política pública](https://bit.ly/30N73FL)
