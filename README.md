@@ -33,9 +33,11 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
 <p>
 
 ## Veja alguns projetos Desenvolvidos por mim
+* **Estatística**:
+* [Análise Fatorial Exploratória no R](https://github.com/FerrazThales/AnaliseFatorialExploratoria)
+* [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
 * **Análise de Dados**:
   * [Análise dos Projetos de Lei da Cidade de Indaial](https://github.com/FerrazThales/Observatorio_Social_Indaial)
-  * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
   * [Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)
   * [Análise dos Dados do Airbnb de Paris](https://bit.ly/3jOf8AS)
 * **Otimização**:
@@ -53,5 +55,5 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
   * [Detector de Objetos usando Yolo](https://bit.ly/3yyl7i5)
 
 ## Lives que participei
- 
+
 [Árvores de Decisão aplicadas a Machine Learning](https://www.youtube.com/watch?v=F8hfuunTJyU)
