@@ -34,8 +34,8 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
 
 ## Veja alguns projetos Desenvolvidos por mim
 * **Estatística**:
-* [Análise Fatorial Exploratória no R](https://github.com/FerrazThales/AnaliseFatorialExploratoria)
-* [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
+  * [Análise Fatorial Exploratória no R](https://github.com/FerrazThales/AnaliseFatorialExploratoria)
+  * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
 * **Análise de Dados**:
   * [Análise dos Projetos de Lei da Cidade de Indaial](https://github.com/FerrazThales/Observatorio_Social_Indaial)
   * [Análise dos Dados da COVID-19](https://bit.ly/3ncbWkr)
