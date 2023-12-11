@@ -32,6 +32,7 @@ Meu grande propósito é ajudar as empresas a resolverem seus problemas utilizan
 
 ## Veja alguns projetos Desenvolvidos por mim
 * **Estatística**:
+  * [Regressão Linear Múltipla no Excel](https://www.linkedin.com/posts/thalesdefreitasferraz_excel-analisededados-regressaeto-activity-7139939379178901504-cESi?utm_source=share&utm_medium=member_desktop)
   * [Análise Fatorial Exploratória no R](https://github.com/FerrazThales/AnaliseFatorialExploratoria)
   * [Análise dos Sintomas de Depressão nos Estados Unidos](http://bit.ly/3Qn7V9k)
 * **Análise de Dados**:
